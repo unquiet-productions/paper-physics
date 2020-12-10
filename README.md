@@ -8,7 +8,7 @@ You can place objects using the + buttons and they will appear at your plus sign
 
 2. How the Game is Made
 
-   The game engine we use to make Paper Physics is Unity (https://unity.com/). The coding language we use to code Paper Physics is C# (https://visualstudio.microsoft.com/, Microsoft Visual Studio.)
+   The game engine we use to make Paper Physics is Unity (https://unity.com/). The coding language we use to code Paper Physics is C# (https://visualstudio.microsoft.com/, Microsoft Visual Studio.) All the images are made in Google Drawings and paint.net (https://getpaint.net), while the rest is non copyrighted images of the web.
    
 3. Uploading and Platforms
 
