@@ -1,4 +1,4 @@
-# Paper Physics
+# Paper Physics - Physics sandbox game made of paper!
 
 1. How the Game Works
 
