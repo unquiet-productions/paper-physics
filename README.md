@@ -12,6 +12,6 @@ You can place objects using the + buttons and they will appear at your plus sign
    
 3. Uploading and Platforms
 
-   When the game is finished, it will get uploaded onto Itch.io (Mabye it will get put on Steam).
+   When the game is finished, it will get uploaded onto itch.io (and other platforms).
 
     
